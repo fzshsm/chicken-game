@@ -1,0 +1,30 @@
+# phpstorm project files
+.idea
+.idea/*
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+./node_modules/*
+
+version
+
+node_modules/
+config/db_production.js
+b.js
+app.bak.js
+service/User.js
+service/Game.js
+service/Steam.js
+service/Robot.js
